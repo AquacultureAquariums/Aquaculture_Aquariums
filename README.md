@@ -10,7 +10,7 @@
   
 
 <a href="https://www.justdial.com/GOA/Aquaculture-Aquariums-Margao/0832P832STD51783_BZDET"> 
-             <button type="button "class="btn btn-primary"> Give me a vote on JustDial! </button>
+     Give me a vote on JustDial!
 </a>
          
 
@@ -18,6 +18,6 @@
 
  
 <a href="https://www.google.co.in/maps/place/Aquaculture+Aquariums/@15.2774353,73.9798898,15z/data=!4m5!3m4!1s0x0:0x2cf9970b80c68b84!8m2!3d15.2774353!4d73.9798898">
-            <button type="button "class="btn btn-primary"> Find my shop on Google Maps </button>
+   Find my shop on Google Maps 
 </a>
    
